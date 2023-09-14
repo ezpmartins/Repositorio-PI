@@ -1,3 +1,3 @@
-# segundo-repositorio
+# Repositório de PI
 
-Teste de alteração
+Repositório dedicado a Materia de Pesquisa e Inovação

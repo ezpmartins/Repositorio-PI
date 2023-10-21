@@ -1,3 +1,3 @@
 # Repositório de PI
 
-Repositório dedicado a Materia de Pesquisa e Inovação
+Repositório dedicado a Matéria de Pesquisa e Inovação
